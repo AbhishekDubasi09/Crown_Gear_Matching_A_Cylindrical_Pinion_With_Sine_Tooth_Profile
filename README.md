@@ -21,11 +21,6 @@ The objective was to model and simulate a crown gear pair where a cylindrical pi
 - STL exports excluded due to size limits; available on request.
 - Designed for fabrication using FDM or SLA 3D printing methods.
 
-## Repository Structure
-
-- `Crown Gear Lua Support`: Contains the Lua source code for profile generation.
-- `3D view of the Design`: Includes CAD-ready model files and assembly diagrams.
-- `.gitattributes`, `.gitignore`: Version control setup and file exclusions.
 
 ## Author
 
