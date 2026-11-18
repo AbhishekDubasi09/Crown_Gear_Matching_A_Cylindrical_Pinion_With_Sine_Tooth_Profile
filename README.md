@@ -51,5 +51,5 @@ shaft with its support.
 ## Author
 
 Abhishek Dubasi, [GitHub](https://github.com/AbhishekDubasi09),
-[LinkedIn](https://www.linkedin.com/in/abhishek-dubasi-1051661b7/). For questions about the design, write to me through
+[LinkedIn](https://www.linkedin.com/in/abhishek-d-1051661b7/). For questions about the design, write to me through
 either of these.
