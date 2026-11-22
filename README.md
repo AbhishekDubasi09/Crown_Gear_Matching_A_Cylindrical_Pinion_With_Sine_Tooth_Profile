@@ -40,7 +40,7 @@ shaft with its support.
 
 - The STL files, which are more than 200 MB in total. They are available on request.
 - The full Lua script. The outline above is a general summary of it.
-- No open-source licence is attached to the design or the script. If you want to use or reproduce them, please contact me.
+- The design and the script are released under the [MIT License](LICENSE). If you build on them, please keep the copyright notice.
 
 ## Further reading
 
