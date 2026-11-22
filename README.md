@@ -40,7 +40,6 @@ shaft with its support.
 
 - The STL files, which are more than 200 MB in total. They are available on request.
 - The full Lua script. The outline above is a general summary of it.
-- The design and the script are released under the [MIT License](LICENSE). If you build on them, please keep the copyright notice.
 
 ## Further reading
 
@@ -53,3 +52,7 @@ shaft with its support.
 Abhishek Dubasi, [GitHub](https://github.com/AbhishekDubasi09),
 [LinkedIn](https://www.linkedin.com/in/abhishek-d-1051661b7/). For questions about the design, write to me through
 either of these.
+
+## License
+
+The design and the published description are released under the [MIT License](LICENSE). The STL files and the full Lua script are not part of this repository.
