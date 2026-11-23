@@ -1,0 +1,8 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# The STL files (over 200 MB in total) are available on request and are not kept in this repository
+*.stl
+*.STL
